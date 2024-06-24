@@ -1,0 +1,154 @@
+.coin1Icon {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+}
+.uiFlatSelect01a15Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.coin1Parent {
+  height: 37px;
+  width: 37px;
+  position: relative;
+}
+.tSubtitle {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.79px;
+  line-height: 31px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.coinRow,
+.tSubtitleWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tSubtitleWrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.coinRow {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-6xs);
+}
+.coin21Icon {
+  position: absolute;
+  top: 6px;
+  left: 6px;
+  width: 25px;
+  height: 25px;
+  object-fit: contain;
+}
+.uiFlatSelect01a16Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.coin21Parent {
+  height: 37px;
+  width: 37px;
+  position: relative;
+}
+.tSubtitle1 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.79px;
+  line-height: 31px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.coinRow1,
+.tSubtitleContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tSubtitleContainer {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.coinRow1 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-6xs);
+}
+.pouchredcoinsgoldoutlined1Icon {
+  position: absolute;
+  top: 7px;
+  left: 6px;
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+.uiFlatSelect01a17Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.pouchredcoinsgoldoutlined1Parent {
+  height: 37px;
+  width: 37px;
+  position: relative;
+}
+.tSubtitle2 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: -0.79px;
+  line-height: 31px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.anotherSelection {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.anotherSelection,
+.betOptionsContent,
+.frameParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-6xs);
+}
+.betOptionsContent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-2xs);
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-floralwhite);
+  font-family: var(--font-pixelify-sans);
+}

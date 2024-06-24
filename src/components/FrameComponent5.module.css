@@ -1,0 +1,166 @@
+.buttonChild,
+.uiFlatSelect01a14Icon {
+  height: 24px;
+  width: 23px;
+  position: relative;
+  object-fit: cover;
+}
+.buttonChild {
+  height: 37px;
+  width: 37px;
+}
+.button,
+.image51Icon {
+  position: absolute;
+  top: 0;
+}
+.button {
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: 100%;
+}
+.image51Icon {
+  left: 2px;
+  width: 31px;
+  height: 31px;
+  object-fit: contain;
+  z-index: 1;
+}
+.buttonParent {
+  height: 37px;
+  width: 37px;
+  position: absolute;
+  margin: 0 !important;
+  right: -30px;
+  bottom: -36px;
+  cursor: pointer;
+  z-index: 1;
+}
+.uiFlatSelect01a14Parent {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.arrowleftgreen1Icon {
+  position: absolute;
+  top: 11px;
+  left: 0;
+  width: 15px;
+  height: 15px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frameContainer {
+  height: 26px;
+  width: 45px;
+  position: relative;
+}
+.uiFlatSelect01a15Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.cash1Icon {
+  position: absolute;
+  top: 6px;
+  left: 7px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  z-index: 1;
+}
+.uiFlatSelect01a15Parent {
+  height: 37px;
+  width: 37px;
+  position: relative;
+  background-image: url(/public/ui-flat-select-01a1-5@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.tSubtitle {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.79px;
+  line-height: 31px;
+}
+.frameDiv,
+.frameParent1,
+.tSubtitleWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tSubtitleWrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+}
+.frameDiv,
+.frameParent1 {
+  box-sizing: border-box;
+}
+.frameParent1 {
+  width: 189px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: var(--gap-6xs);
+}
+.frameDiv {
+  width: 243px;
+  flex-direction: column;
+  padding: var(--padding-4xl) 0 0;
+}
+.uiFlatSelect01a12Icon {
+  height: 26px;
+  width: 26px;
+  position: relative;
+  object-fit: cover;
+}
+.frameGroup,
+.frameParent,
+.frameWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frameGroup {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frameParent,
+.frameWrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.frameParent {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-floralwhite);
+  font-family: var(--font-pixelify-sans);
+}
+@media screen and (max-width: 366px) {
+  .frameGroup {
+    flex-wrap: wrap;
+  }
+}

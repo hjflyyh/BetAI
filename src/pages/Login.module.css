@@ -1,0 +1,81 @@
+.torchoutlined1Icon {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  margin: 0 !important;
+  right: 22px;
+  bottom: 331px;
+  object-fit: contain;
+}
+.tSubtitle,
+.tSubtitle1 {
+  width: 389px;
+  position: absolute;
+  margin: 0 !important;
+  left: 22px;
+  letter-spacing: -0.79px;
+  line-height: 31px;
+  display: inline-block;
+}
+.tSubtitle {
+  bottom: 327px;
+  white-space: pre-wrap;
+}
+.tSubtitle1 {
+  bottom: 207px;
+}
+.image50Icon,
+.uiFlatButtonSmallPress02aIcon {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 37px;
+  height: 37px;
+  object-fit: cover;
+}
+.image50Icon {
+  top: 0;
+  left: 1px;
+  width: 34px;
+  height: 34px;
+  z-index: 1;
+}
+.uiFlatButtonSmallPress02aParent {
+  height: 39px;
+  width: 37px;
+  position: relative;
+  cursor: pointer;
+}
+.twitter {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.login,
+.twitter,
+.twitterWrapper {
+  display: flex;
+  align-items: flex-start;
+}
+.twitterWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 5px 0 0;
+}
+.login {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-dimgray);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-xl) 238px var(--padding-5xl);
+  box-sizing: border-box;
+  gap: 373px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-floralwhite);
+  font-family: var(--font-pixelify-sans);
+}

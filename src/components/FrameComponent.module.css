@@ -1,0 +1,222 @@
+.tFeatureTitle01 {
+  position: absolute;
+  top: 50px;
+  left: 1px;
+  line-height: 28px;
+  display: inline-block;
+  width: 10px;
+  min-width: 10px;
+  z-index: 1;
+}
+.choiceIcon,
+.image16Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.image16Icon {
+  top: 4px;
+  left: 2px;
+  width: 57px;
+  height: 45px;
+  z-index: 2;
+}
+.choiceParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 61px;
+}
+.options {
+  height: 78px;
+  flex: 1;
+  position: relative;
+  min-width: 60px;
+  max-width: 61px;
+}
+.tFeatureTitle011 {
+  position: absolute;
+  top: 50px;
+  left: 1px;
+  line-height: 28px;
+  display: inline-block;
+  width: 13px;
+  min-width: 13px;
+  z-index: 1;
+}
+.choiceIcon1,
+.image17Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.image17Icon {
+  top: 4px;
+  left: 2px;
+  width: 57px;
+  height: 45px;
+  z-index: 1;
+}
+.questionOptions {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 61px;
+}
+.tFeatureTitle01Parent {
+  height: 78px;
+  flex: 1;
+  position: relative;
+  min-width: 60px;
+  max-width: 61px;
+}
+.tFeatureTitle012 {
+  position: absolute;
+  top: 50px;
+  left: 1px;
+  line-height: 28px;
+  display: inline-block;
+  width: 13px;
+  min-width: 13px;
+  z-index: 1;
+}
+.choiceIcon2,
+.image18Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.image18Icon {
+  top: 4px;
+  left: 2px;
+  width: 57px;
+  height: 45px;
+  z-index: 1;
+}
+.nextOptions {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 61px;
+}
+.tFeatureTitle01Group {
+  height: 78px;
+  flex: 1;
+  position: relative;
+  min-width: 60px;
+  max-width: 61px;
+}
+.tFeatureTitle013 {
+  position: absolute;
+  top: 50px;
+  left: 1px;
+  line-height: 28px;
+  display: inline-block;
+  width: 13px;
+  min-width: 13px;
+  z-index: 1;
+}
+.choiceIcon3,
+.image19Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.image19Icon {
+  top: 4px;
+  left: 2px;
+  width: 57px;
+  height: 45px;
+  z-index: 2;
+}
+.choiceGroup {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 61px;
+}
+.anotherQuestion {
+  height: 78px;
+  flex: 1;
+  position: relative;
+  min-width: 60px;
+  max-width: 61px;
+}
+.tFeatureTitle014 {
+  position: absolute;
+  top: 50px;
+  left: 1px;
+  line-height: 28px;
+  display: inline-block;
+  width: 13px;
+  min-width: 13px;
+  z-index: 1;
+}
+.choiceIcon4,
+.image20Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.image20Icon {
+  top: 4px;
+  left: 2px;
+  width: 57px;
+  height: 45px;
+  z-index: 2;
+}
+.finalOptions {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 61px;
+}
+.finalQuestion {
+  height: 78px;
+  flex: 1;
+  position: relative;
+  min-width: 60px;
+  max-width: 61px;
+}
+.lotteryInner,
+.optionsParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.optionsParent {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: var(--gap-mid);
+}
+.lotteryInner {
+  width: 417px;
+  padding: 0 var(--padding-3xl) var(--padding-base);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-floralwhite);
+  font-family: var(--font-zpix);
+}

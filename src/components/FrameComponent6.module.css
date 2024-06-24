@@ -1,0 +1,74 @@
+.tSubtitle {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.79px;
+  line-height: 31px;
+  display: inline-block;
+  max-width: 100%;
+}
+.tSubtitleWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-lg);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.tSubtitle1 {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.79px;
+  line-height: 20px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.tSubtitleContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-11xs) 0 var(--padding-base);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-base);
+}
+.uiFlatSelect01a11Icon,
+.uiFlatSelect01a13Icon {
+  height: 24px;
+  width: 23px;
+  position: relative;
+  object-fit: cover;
+}
+.uiFlatSelect01a11Icon {
+  height: 25px;
+  width: 24px;
+  min-height: 25px;
+  z-index: 2;
+}
+.uiFlatSelect01a13Parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-9xs) 0 0;
+  gap: var(--gap-xl);
+}
+.frameParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-3xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-floralwhite);
+  font-family: var(--font-pixelify-sans);
+}

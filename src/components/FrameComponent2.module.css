@@ -1,0 +1,247 @@
+.uiFlatBanner01Upward1Icon {
+  height: 66px;
+  width: 198px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.tFeatureTitle01 {
+  height: 39.3px;
+  width: 132px;
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.uiFlatBanner01Upward1Parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-lgi) var(--padding-5xl) var(--padding-5xs-7);
+  background-image: url(/public/ui-flat-banner-01-upward-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.uiFlatSelect01a15Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.helmet03outlined1Icon {
+  position: absolute;
+  top: 6px;
+  left: 7px;
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  z-index: 1;
+}
+.uiFlatSelect01a15Parent {
+  height: 37px;
+  width: 37px;
+  position: relative;
+  background-image: url(/public/ui-flat-select-01a1-5@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.tContent {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+}
+.tContentWrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-9xs) 0 0;
+}
+.frameContainer,
+.frameDiv,
+.tContentWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameDiv {
+  width: 189px;
+  flex-direction: row;
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-floralwhite);
+  font-family: var(--font-pixelify-sans);
+}
+.frameContainer {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-7xs);
+}
+.uiFlatSelect01a15Icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: none;
+}
+.pouchredcoinsgoldoutlined1Icon {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  z-index: 1;
+}
+.uiFlatSelect01a15Group {
+  height: 37px;
+  width: 37px;
+  position: relative;
+  background-image: url(/public/ui-flat-select-01a1-5@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.tContent1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+}
+.tContentContainer {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-9xs) 0 0;
+}
+.frameGroup,
+.frameParent1,
+.tContentContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent1 {
+  width: 128px;
+  flex-direction: row;
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-floralwhite);
+  font-family: var(--font-pixelify-sans);
+}
+.frameGroup {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-sm);
+  min-width: 129px;
+}
+.uiFlatFrame02Standard1Icon {
+  position: absolute;
+  width: calc(100% - 11.3px);
+  top: 7.7px;
+  right: 5.7px;
+  left: 5.6px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 131.1px;
+  object-fit: cover;
+}
+.uiFlatSelect01a11Icon {
+  position: absolute;
+  top: 133.2px;
+  left: 130.1px;
+  width: 12.3px;
+  height: 12.8px;
+  object-fit: contain;
+  z-index: 1;
+}
+.uiFlatSelect01a12Icon,
+.uiFlatSelect01a13Icon,
+.uiFlatSelect01a14Icon {
+  position: absolute;
+  top: 133.7px;
+  left: 0;
+  width: 11.8px;
+  height: 12.3px;
+  object-fit: contain;
+  z-index: 1;
+}
+.uiFlatSelect01a12Icon,
+.uiFlatSelect01a14Icon {
+  top: 0;
+}
+.uiFlatSelect01a12Icon {
+  left: 129.1px;
+  width: 13.3px;
+  height: 13.3px;
+}
+.uiFlatFrame02Standard1Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.image36Icon {
+  position: absolute;
+  width: calc(100% - 20px);
+  top: 11.8px;
+  right: 10.3px;
+  left: 9.7px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 122.9px;
+  object-fit: cover;
+  z-index: 2;
+}
+.frameParent2 {
+  height: 146px;
+  flex: 1;
+  position: relative;
+}
+.frameParent,
+.frameWrapper,
+.groupDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.groupDiv {
+  width: 142.4px;
+  align-items: flex-start;
+  min-width: 142.4px;
+}
+.frameParent,
+.frameWrapper {
+  max-width: 100%;
+}
+.frameParent {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-7xl);
+}
+.frameWrapper {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-3xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-b);
+}
+@media screen and (max-width: 339px) {
+  .groupDiv {
+    flex: 1;
+  }
+  .frameParent {
+    flex-wrap: wrap;
+  }
+}
